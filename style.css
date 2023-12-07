@@ -203,7 +203,7 @@
   }
 
   .hdd3 {
-    padding-top: 550px;
+    padding-top: 600px;
   }
 
   .hdd7 {
@@ -224,24 +224,24 @@
   }
 
   .hdd2 {
-    width: 750px;
+    width: 730px;
     height: 150vh;
   }
 
   .hdd4 {
-    width: 750px;
+    width: 730px;
     height: 150vh;
   }
 
   .hdd5 {
 
-    width: 750px;
+    width: 730px;
     height: 150vh;
   }
 
   .hdd6 {
 
-    width: 750px;
+    width: 730px;
     height: 150vh;
   }
 
@@ -251,11 +251,12 @@
   }
 
   .main {
-    width: 750px;
+    width: 730px;
   }
 
   .hdd7 {
     font-size: 10px;
     margin-left: -15px;
+    wight:600px
   }
 }
