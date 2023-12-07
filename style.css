@@ -224,39 +224,40 @@
   }
 
   .hdd2 {
-    width: 730px;
+    width: 715px;
     height: 150vh;
   }
 
   .hdd4 {
-    width: 730px;
+    width: 715px;
     height: 150vh;
   }
 
   .hdd5 {
 
-    width: 730px;
+    width: 715px;
     height: 150vh;
   }
 
   .hdd6 {
 
-    width: 730px;
+    width: 715px;
     height: 150vh;
   }
 
   .hdd3 {
-    padding-top: 400px;
+    padding-top: 410px;
     font-size: 15px;
   }
 
   .main {
-    width: 730px;
+    width: 715px;
   }
 
   .hdd7 {
     font-size: 10px;
     margin-left: -15px;
-    wight:600px
   }
+  .hdd8{
+     width:300px
 }
